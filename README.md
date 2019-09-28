@@ -23,7 +23,7 @@
 ## Download
 > [Github.](https://github.com/Mart475/Optimized-3D-ME-Script)
 
-## Documenation
-> [Documenation.](https://devdawson.xyz/docs/ud-menu)
+## Documentation
+> [Documentation.](https://devdawson.xyz/docs/ud-menu)
 
 **-- DevDawson - Universal Development**
